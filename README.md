@@ -10,7 +10,7 @@ A base é em inglês e mantivemos dessa forma para possibilitar rápida atualiza
 
 Resumo das aplicações:
 
-• Importação de dados e o que é o Power Query
+• Importação de dados
 
 • Pequeno tratamento de dados na coluna de idade (tipo de dado)
 
