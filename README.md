@@ -1,6 +1,8 @@
 #  Dashboard dados históricos das olimpíadas
- 
- 
+
+![banner-blog-estudio-roxo-olimpiadas-um-logo-que-e-uma-egregora-12](https://user-images.githubusercontent.com/82332461/140793117-be7fc000-aceb-4455-872a-33b33bc5cd12.jpg)
+
+
 
 # Sobre
 Nesse projeto vamos analisar dados históricos das olimpíadas. A base de dados desse projeto foi obtida do Kaggle nesse link: https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis/data
